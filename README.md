@@ -16,7 +16,7 @@ El sistema busca solucionar la ineficiencia en la comunicación con los clientes
 * **Seguridad:** Niveles de acceso con usuario y contraseña (Administrador/Técnico) y acceso público para clientes mediante DNI o código único.
 * **Diseño Responsive:** Interfaz 100% adaptable para dispositivos móviles.
 * **Disponibilidad:** Información del estado del procedimiento disponible las 24 hs.
-* 
-* # Enlaces Externos (Parcial 1)
+ 
+# Enlaces Externos (Parcial 1)
 * Podés acceder al recurso interactivo o despliegue a través del siguiente enlace:
 * [ https://sites.google.com/view/proyectodiegoisri/inicio ]
