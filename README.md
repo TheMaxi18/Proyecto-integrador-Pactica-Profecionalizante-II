@@ -17,6 +17,6 @@ El sistema busca solucionar la ineficiencia en la comunicación con los clientes
 * **Diseño Responsive:** Interfaz 100% adaptable para dispositivos móviles.
 * **Disponibilidad:** Información del estado del procedimiento disponible las 24 hs.
  
-# Enlaces Externos (Parcial 1)
-* Podés acceder al recurso interactivo o despliegue a través del siguiente enlace:
+# Enlaces Externos 
+ Podés acceder al recurso interactivo o despliegue a través del siguiente enlace:
 * [ https://sites.google.com/view/proyectodiegoisri/inicio ]
