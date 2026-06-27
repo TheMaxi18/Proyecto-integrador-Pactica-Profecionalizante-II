@@ -1,2 +1,1 @@
 Arrancando la tarea de Git
-Agregando contenido nuevo en la rama de desarrollo
